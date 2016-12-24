@@ -3,10 +3,10 @@ Computer Science 2017 Self-Study Plan
 
 Course Map - [Very Important Flowchart](https://hkn.eecs.berkeley.edu/courseguides?_ga=1.258244810.1106053982.1482610526)
 ## 1. CS 61A Berkeley - The Structure and Interpretation of Computer Programs
-* Course Homepage: [CS61A Course Home](http://cs61a.org/)
-* Primary Language: Python 3
-* Textbook: _Structure and Interpretation of Computer Programs_
-* Prerequisites: None
+> Course Homepage: [CS61A Course Home](http://cs61a.org/)
+> Primary Language: Python 3
+> Textbook: _Structure and Interpretation of Computer Programs_
+> Prerequisites: None
 
 ## 2. CS 61B Berkeley - Data Structures
 * Course Homepage: [CS61B Course Home](https://inst.eecs.berkeley.edu/~cs61b/fa16/index.html)

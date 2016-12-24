@@ -16,6 +16,7 @@ Course Map - [Very Important Flowchart](https://hkn.eecs.berkeley.edu/courseguid
 
 ## 3. CS 61C Berkeley - Machine Structures
 * __Course Homepage__: [CS61C Course Home](http://www-inst.eecs.berkeley.edu/~cs61c/fa16/)
+* __Primary Language__: C
 * __Textbooks__: _K&R_, _Computer Organization and Design_(Juxtapose with _Computer Systems: A Programmer's Perspective_, _WSC_
 * __Prerequisites__: CS 61B
 
